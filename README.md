@@ -79,4 +79,13 @@ streamlit run gui_app.py
 
 ---
 
+## 👥 Team & Course Info
+
+- **Course**: Artificial Intelligence
+- **Project**: Filmception (Project 1)
+- **Group Size**: 2 Members
+- **Instructor Requirement**: Viva mandatory for marks
+
+---
+
 
